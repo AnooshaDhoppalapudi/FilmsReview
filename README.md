@@ -7,7 +7,7 @@
 
 3. Install expo cli using npm i –g expo-cli
 
-4. Expo client in mobile, vs code
+4. Visual Studio code
 
 5. Expo init FilmsReview(My Project name)
 
@@ -26,6 +26,10 @@
 12. We can see the iPhone by opening the simulator
 
 13. If we want to Run on IOS simulator, we can choose  option from menu in Metro Bundler or we can run by typing ‘I’ in the terminal
+
+14. If you want tp access this app in real mobile, we need to install Expo client in mobile from App store.
+
+15. After Publishing the code in Metro bundler, we can see access the app in our mobile Expo client.
 
 
 
